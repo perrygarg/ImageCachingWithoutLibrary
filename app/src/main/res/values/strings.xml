@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pic Zilla</string>
+    <string name="no_prev_data">Press NEXT button to see photos.</string>
+    <string name="no_net">No Internet</string>
+    <string name="null_bitmap">NULL BITMAP RECEIVED FROM API</string>
+</resources>
